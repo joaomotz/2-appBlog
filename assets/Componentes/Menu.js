@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-native'
+
 import { View, StyleSheet, Text, TouchableOpacity } from 'react-native';
 
 const e = StyleSheet.create({
